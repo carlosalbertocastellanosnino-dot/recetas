@@ -1,0 +1,29 @@
+body{
+    background-image:url("fondo.webp");
+    background-image: linear-gradient(to top, #03f343, #FFFFFF);
+}
+div {
+  width: 90%;
+  border: 15px solid rgb(27, 121, 6);
+  padding: 50px;
+  margin: 20px;
+  border-radius: 100px;
+ 
+}
+p{
+    box-align:"center";
+    color:rgb(36, 147, 92);
+    font-size: larger;
+    font-family: fantasy;
+    font-style: oblique;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+ol{
+    font-size:larger;
+    color: blueviolet;
+    font-style:oblique;
+}
